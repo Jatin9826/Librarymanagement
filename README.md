@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/6d4d178f-3551-4fb0-8751-a365f2d9c6c9)
+
 # 📚 Library Management System using Python
 
 A complete Library Management System built in Python that supports both **Command-Line Interface (CLI)** and **Graphical User Interface (GUI)** using Tkinter.
